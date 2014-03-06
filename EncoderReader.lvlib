@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Config" Type="Folder">
-		<Item Name="Encoder Reader.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/EncoderReader/Config/Encoder Reader.ctl"/>
+		<Item Name="EncoderReader.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/EncoderReader/Config/EncoderReader.ctl"/>
 	</Item>
 	<Item Name="EncoderReader" Type="Folder">
 		<Item Name="EncoderReader.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Devices/EncoderReader/EncoderReader/EncoderReader.lvclass"/>
